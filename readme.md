@@ -2,11 +2,11 @@
 <h3 align="center">🚀 React & Next.js Developer | Storyteller in Code</h3>
 
 <p align="center">
-  <img src="./assets/onamikaonu.png" alt="Anamika Yesmin Anu" width="150" height="150" style="border-radius: 50%;" />
+  <img src="./assets/onamikaonu.png" alt="Anamika Yesmin Anu" width="980" height="400" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=React+Developer+💙;Next.js+Enthusiast+🚀;Full+Stack+Developer+💻;English+Literature+Student+📚;Passionate+Coder+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=React+Developer+💙;Next.js+🚀;Full+Stack+Developer+💻;English+Literature+Student+📚;Passionate+Coder+✨" alt="Typing SVG" />
 </p>
 
 ---
