@@ -13,7 +13,7 @@
 
 ## 🧑‍💼 About Me
 
-I'm **Anamika Yesmin Anu**, a passionate full-stack developer with a unique perspective blending English Literature with code. I view coding as another form of language, crafting digital experiences that are both beautiful and functional.
+I'm **Anamika Yesmin Anu**, Full-stack developer with a unique perspective blending English Literature with code. I view coding as another form of language, crafting digital experiences that are both beautiful and functional.
 
 📍 **Location:** Rajshahi, Bangladesh  
 📧 **Email:** onamikaonu086@gmail.com  
